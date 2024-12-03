@@ -31,7 +31,7 @@ The repository is organized by year and day. Each folder contains the Jupyter No
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/advent-of-code-solutions.git
+    git clone https://github.com/fh2412/aoc_2024.git
     ```
 
 2. Navigate to the desired year's folder and open the Jupyter Notebook for the specific day:
