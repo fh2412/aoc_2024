@@ -1,7 +1,3 @@
-Sure, I'd be happy to help you create a README for your GitHub repository! Here's a draft for you:
-
----
-
 # Advent of Code Solutions
 
 Welcome to my Advent of Code solutions repository! This repository contains my solutions to the Advent of Code challenges, implemented as Python Jupyter Notebooks.
