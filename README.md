@@ -4,7 +4,7 @@ Welcome to my Advent of Code solutions repository! This repository contains my s
 
 ## About Advent of Code
 
-*Ein externer Link wurde entfernt, um Ihre Privatsphäre zu schützen.* is an annual coding event that takes place in December. Each day, a new programming challenge is released, and participants can solve the problems in any programming language of their choice.
+*https://adventofcode.com/* is an annual coding event that takes place in December. Each day, a new programming challenge is released, and participants can solve the problems in any programming language of their choice.
 
 ## Repository Structure
 
